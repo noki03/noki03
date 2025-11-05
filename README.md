@@ -21,11 +21,10 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 - ✨ Always learning and experimenting with modern web technologies
 
 📫 **Reach me at:** [neuqian2000@gmail.com](mailto:neuqian2000@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/neuqian-rhys-salvador-097455282)
 
 ---
 
-### 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
