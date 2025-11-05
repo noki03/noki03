@@ -25,6 +25,11 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 
 ---
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ### 🧰 Tech Stack
 
 #### 💻 Languages
@@ -77,10 +82,6 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 ⭐️ *From [noki03](https://github.com/noki03)*
