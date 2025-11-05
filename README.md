@@ -21,7 +21,7 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 - ✨ Always learning and experimenting with modern web technologies
 
 📫 **Reach me at:** [neuqian2000@gmail.com](mailto:neuqian2000@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/neuqian-rhys-salvador-097455282)
+🔗 **LinkedIn:** [linkedin.com/in/neuqian-rhys-salvador](https://www.linkedin.com/in/neuqian-rhys-salvador-097455282)
 
 ---
 
