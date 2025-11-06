@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Noki</h1>
+<h1 align="center">👋 Hi, I'm Noki</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🚀 Passionate about Scalable & Clean Code</h3>
 
 <p align="center">
@@ -12,22 +12,19 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Full Stack Web Developer** based in **Davao City** with hands-on experience in building and enhancing corporate systems.  
-I enjoy crafting solutions that balance **efficiency**, **scalability**, and **user experience** — from backend logic to sleek, responsive frontends.
 
-- 🧩 Skilled in **PHP, Laravel, React, and TypeScript**
-- 🧠 Currently exploring **Framer Motion** and advanced UI animation
-- 💡 Passionate about improving development workflows and code quality
-- ✨ Always learning and experimenting with modern web technologies
+I'm a **Full Stack Web Developer** based in **Davao City**, focused on building efficient and scalable web applications with clean, maintainable code.  
+I love creating systems that are as elegant under the hood as they are on the surface.
+
+- 🧩 Skilled in **PHP, Laravel, React, and TypeScript**  
+- ⚙️ Experienced in crafting and maintaining **corporate web systems**  
+- 💡 Driven by continuous learning and modern web development trends  
+- ✨ Enthusiastic about improving **developer experience** and **UI/UX**
 
 📫 **Reach me at:** [neuqian2000@gmail.com](mailto:neuqian2000@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/neuqian-rhys-salvador](https://www.linkedin.com/in/neuqian-rhys-salvador-097455282)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ### 🧰 Tech Stack
 
@@ -42,10 +39,12 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 #### ⚙️ Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcn)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
@@ -57,7 +56,7 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=flat&logo=keycloak)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
 ![Dexie.js](https://img.shields.io/badge/Dexie.js-2E7D32?style=flat)
 ![Spatie](https://img.shields.io/badge/Spatie_Media-0078D7?style=flat)
 
@@ -65,22 +64,45 @@ I enjoy crafting solutions that balance **efficiency**, **scalability**, and **u
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=noki03&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=noki03&theme=tokyonight" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noki03&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=noki03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=noki03&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="160" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noki03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="160" 
+    alt="Top Languages" 
+  />
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=noki03&theme=tokyo-night&area=true&hide_border=true&radius=10" 
+    height="280" 
+    alt="GitHub Activity Graph" 
+  />
+
+  <!-- Snake Animation -->
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+    alt="snake animation" 
+  />
+
+</div>
 
 ---
 
 ### ⚡ Quote of the Day
 > “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
-
----
-
-
----
-⭐️ *From [noki03](https://github.com/noki03)*
