@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Noki</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🚀 Passionate about Scalable & Clean Code</h3>
+<h3 align="center">💻 Full Stack Web Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noki03&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
@@ -13,8 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** based in **Davao City**, focused on building efficient and scalable web applications with clean, maintainable code.  
-I love creating systems that are as elegant under the hood as they are on the surface.
+I'm a **Full Stack Web Developer** based in **Davao City**, focused on building efficient and scalable web applications with clean, maintainable code.
 
 - 🧩 Skilled in **PHP, Laravel, React, and TypeScript**  
 - ⚙️ Experienced in crafting and maintaining **corporate web systems**  
