@@ -65,39 +65,46 @@ I'm a **Full Stack Web Developer** based in **Davao City**, focused on building 
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=noki03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="160" 
-    alt="GitHub Stats" 
-  />
+  <!-- Row 1: Stats, Streak, Top Languages -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=noki03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+          height="160" 
+          alt="GitHub Stats" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com?user=noki03&theme=tokyonight&hide_border=true&border_radius=10" 
+          height="160" 
+          alt="GitHub Streak" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=noki03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" 
+          height="160" 
+          alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=noki03&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="160" 
-    alt="GitHub Streak" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noki03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" 
-    height="160" 
-    alt="Top Languages" 
-  />
-
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=noki03&theme=tokyo-night&area=true&hide_border=true&radius=10" 
-    height="280" 
-    alt="GitHub Activity Graph" 
-  />
-
-  <!-- Snake Animation -->
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
-    alt="snake animation" 
-  />
+  <!-- Row 2: Activity Graph & Snake -->
+  <div>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=noki03&theme=tokyo-night&area=true&hide_border=true&radius=10" 
+      height="280" 
+      alt="GitHub Activity Graph" 
+    />
+    <br />
+    <img 
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+      alt="snake animation" 
+    />
+  </div>
 
 </div>
 
